@@ -1,9 +1,9 @@
 # Task0-Titanic-Exploration
 
-#Introduction to Basic Operations in Data Science
+# Introduction to Basic Operations in Data Science
 In this task, you will be given a dataset (Titanic Survivers) and your job is to analyse the data given using relevant functions in Pandas, Numpy and Matplotlib
 
-#Tasks to Perform on this Dataset
+# Tasks to Perform on this Dataset
 A few things that I want you to do is -
 
  1. Download the dataset and load it using Pandas
@@ -15,7 +15,7 @@ A few things that I want you to do is -
  
 Explore more commands and features on your own, hopefully this will give you a good start !!
 
-#References
+# References
 Dataset - https://www.kaggle.com/c/titanic/
 Pandas, Numpy cheatsheet - http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf
 Pandas Tutorial - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
