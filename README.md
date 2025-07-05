@@ -1,4 +1,4 @@
-# Task0-Titanic-Exploration
+# Titanic Exploration
 
 # Introduction to Basic Operations in Data Science
 In this task, you will be given a dataset (Titanic Survivers) and your job is to analyse the data given using relevant functions in Pandas, Numpy and Matplotlib
