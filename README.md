@@ -4,7 +4,7 @@
 In this task, you will be given a dataset (Titanic Survivers) and your job is to analyse the data given using relevant functions in Pandas, Numpy and Matplotlib
 
 # Tasks to Perform on this Dataset
-A few things that I want you to do is -
+A few things that I want you to do is: 
 
  1. Download the dataset and load it using Pandas
  2. Remove all the NULL values from the dataset
@@ -16,7 +16,7 @@ A few things that I want you to do is -
 Explore more commands and features on your own, hopefully this will give you a good start !!
 
 # References
-Dataset - https://www.kaggle.com/c/titanic/
-Pandas, Numpy cheatsheet - http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf
-Pandas Tutorial - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
-Data Analysis with Python - https://www.youtube.com/watch?v=r-uOLxNrNk8
+1. Dataset - https://www.kaggle.com/c/titanic/
+2. Pandas, Numpy cheatsheet - http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf
+3. Pandas Tutorial - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+4. Data Analysis with Python - https://www.youtube.com/watch?v=r-uOLxNrNk8
